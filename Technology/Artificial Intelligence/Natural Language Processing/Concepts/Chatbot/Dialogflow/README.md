@@ -62,6 +62,11 @@ The following diagram shows an example that uses context for a banking agent.
 There is a lot more that Dialogflow offers but we will keep adding more as and when we.
 Each concept will be explained in details moving forward. For now you can go ahead and read through the following resources we think will help you understand each concepts in detal.
 
-### References
+### References 
 
 * [Dialogflow Basics](https://cloud.google.com/dialogflow/docs/basics)
+
+### More content to help you do more than the JUST
+
+* [Dialogflow Videos](https://www.youtube.com/channel/UC1EXoqvR9VrmWnM9S47SfVA)
+* [Mining Business Data](https://miningbusinessdata.com) - Personal fav! You can find a lot of useful content and tools that can help you build better bots
